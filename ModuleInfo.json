@@ -1,0 +1,20 @@
+{
+  "Name": "Pokéball Planet to SMG2",
+  "Author": "Myron Dragon",
+  "Description": "That one planet on the top of Buoy Base Galaxy to smg2.",
+  "InstallDependencies": [ "Syati_ObjectFactories", "Syati_Init" ],
+  "SupportedGames": [
+    "SB4"
+  ],
+  "ModuleData": [
+    {
+      "ProductMapObj": [
+        {
+          "Name": "HatchWaterPlanet",
+          "Function": "createExtActor<HatchWaterPlanet>",
+          "Include": "HatchWaterPlanet.h"
+        }
+      ]
+    }
+  ]
+}

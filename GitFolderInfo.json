@@ -1,0 +1,7 @@
+{
+  "Version": 1,
+  "Files": [
+    "include/HatchWaterPlanet.h",
+    "source/HatchWaterPlanet.cpp"
+  ]
+}
